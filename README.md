@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/AzurePullRequestsClientDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/AzurePullRequestsClientDemo/actions/workflows/ci.yml)
+
 # AzurePullRequestsClientDemo
 ```
 Using various ways in order to get info about azure pull requests
